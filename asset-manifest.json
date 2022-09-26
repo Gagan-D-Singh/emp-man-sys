@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gagan-D-Singh/emp-man-sys/static/css/main.2ffba13c.css",
+    "main.js": "/Gagan-D-Singh/emp-man-sys/static/js/main.c63a84d5.js",
+    "static/js/787.6e6ddcf2.chunk.js": "/Gagan-D-Singh/emp-man-sys/static/js/787.6e6ddcf2.chunk.js",
+    "index.html": "/Gagan-D-Singh/emp-man-sys/index.html",
+    "main.2ffba13c.css.map": "/Gagan-D-Singh/emp-man-sys/static/css/main.2ffba13c.css.map",
+    "main.c63a84d5.js.map": "/Gagan-D-Singh/emp-man-sys/static/js/main.c63a84d5.js.map",
+    "787.6e6ddcf2.chunk.js.map": "/Gagan-D-Singh/emp-man-sys/static/js/787.6e6ddcf2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ffba13c.css",
+    "static/js/main.c63a84d5.js"
+  ]
+}
